@@ -1,0 +1,11 @@
+C:\Users\milka\Desktop\Yakovenko_072303_5\Yakovenko_072303_5\bin\Debug\Yakovenko_072303_5.exe.config
+C:\Users\milka\Desktop\Yakovenko_072303_5\Yakovenko_072303_5\bin\Debug\Yakovenko_072303_5.exe
+C:\Users\milka\Desktop\Yakovenko_072303_5\Yakovenko_072303_5\bin\Debug\Yakovenko_072303_5.pdb
+C:\Users\milka\Desktop\Yakovenko_072303_5\Yakovenko_072303_5\obj\Debug\Yakovenko_072303_5.csproj.AssemblyReference.cache
+C:\Users\milka\Desktop\Yakovenko_072303_5\Yakovenko_072303_5\obj\Debug\Yakovenko_072303_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\milka\Desktop\Yakovenko_072303_5\Yakovenko_072303_5\obj\Debug\Yakovenko_072303_5.Form1.resources
+C:\Users\milka\Desktop\Yakovenko_072303_5\Yakovenko_072303_5\obj\Debug\Yakovenko_072303_5.Properties.Resources.resources
+C:\Users\milka\Desktop\Yakovenko_072303_5\Yakovenko_072303_5\obj\Debug\Yakovenko_072303_5.csproj.GenerateResource.cache
+C:\Users\milka\Desktop\Yakovenko_072303_5\Yakovenko_072303_5\obj\Debug\Yakovenko_072303_5.csproj.CoreCompileInputs.cache
+C:\Users\milka\Desktop\Yakovenko_072303_5\Yakovenko_072303_5\obj\Debug\Yakovenko_072303_5.exe
+C:\Users\milka\Desktop\Yakovenko_072303_5\Yakovenko_072303_5\obj\Debug\Yakovenko_072303_5.pdb
